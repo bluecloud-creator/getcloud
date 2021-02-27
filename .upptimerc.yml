@@ -6,8 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: gov.sg
+    url: https://gov.sg
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Broken Site
